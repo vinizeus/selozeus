@@ -2,7 +2,6 @@
 
 
 
-<summary>🍙 Ajuda!</summary>
 
 ## Ferramentas
 
@@ -30,8 +29,8 @@ Siga os passos abaixo!
 > pkg install wget
 > pkg install nodejs
 > pkg install npm
-> git clone https://github.com/vinizeus/vinizeu.git
-> cd vinizeu
+> git clone https://github.com/vinizeus/selozeus.git
+> cd selozeus
 > bash install.sh
 ```
 
